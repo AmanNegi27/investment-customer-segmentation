@@ -1,0 +1,204 @@
+{
+  "kmeans_cluster": {
+    "cluster_0": {
+      "size": 374,
+      "percentage": 18.7,
+      "avg_age": 41.37967914438503,
+      "avg_saving": 46204.040897695435,
+      "avg_net_worth": 1273110.657454875,
+      "avg_risk_score": 16.59331550802139,
+      "avg_roi": 9.866951871657754,
+      "avg_tenure": 11.871657754010695,
+      "dominant_goal": "retirement",
+      "dominant_inv_type": "real_estate",
+      "goal_distribution": {
+        "retirement": 0.4625668449197861,
+        "wealth": 0.42513368983957217,
+        "emergency": 0.11229946524064172
+      },
+      "inv_type_distribution": {
+        "real_estate": 0.3155080213903743,
+        "mutual": 0.2727272727272727,
+        "stocks": 0.20588235294117646,
+        "nps": 0.20588235294117646
+      }
+    },
+    "cluster_1": {
+      "size": 442,
+      "percentage": 22.1,
+      "avg_age": 28.312217194570135,
+      "avg_saving": 35362.247530285604,
+      "avg_net_worth": 216933.78232908002,
+      "avg_risk_score": 29.566289592760178,
+      "avg_roi": 14.103235294117647,
+      "avg_tenure": 2.581447963800905,
+      "dominant_goal": "wealth",
+      "dominant_inv_type": "crypto",
+      "goal_distribution": {
+        "wealth": 0.6447963800904978,
+        "vacation": 0.19230769230769232,
+        "education": 0.16063348416289594,
+        "retirement": 0.0022624434389140274
+      },
+      "inv_type_distribution": {
+        "crypto": 0.4298642533936652,
+        "stocks": 0.36877828054298645,
+        "etf": 0.18099547511312217,
+        "mutual": 0.020361990950226245
+      }
+    },
+    "cluster_2": {
+      "size": 643,
+      "percentage": 32.15,
+      "avg_age": 32.82892690513219,
+      "avg_saving": 25435.32029079292,
+      "avg_net_worth": 377094.13967094885,
+      "avg_risk_score": 18.85054432348367,
+      "avg_roi": 10.508802488335926,
+      "avg_tenure": 4.230171073094867,
+      "dominant_goal": "education",
+      "dominant_inv_type": "mutual",
+      "goal_distribution": {
+        "education": 0.4214618973561431,
+        "wealth": 0.3965785381026439,
+        "retirement": 0.16796267496111975,
+        "vacation": 0.01088646967340591,
+        "emergency": 0.003110419906687403
+      },
+      "inv_type_distribution": {
+        "mutual": 0.43390357698289267,
+        "etf": 0.29237947122861585,
+        "gold": 0.17573872472783825,
+        "stocks": 0.05598755832037325,
+        "crypto": 0.03110419906687403,
+        "real_estate": 0.004665629860031105,
+        "fd": 0.004665629860031105,
+        "ppf": 0.0015552099533437014
+      }
+    },
+    "cluster_3": {
+      "size": 541,
+      "percentage": 27.05,
+      "avg_age": 49.03512014787431,
+      "avg_saving": 15781.14600041319,
+      "avg_net_worth": 820245.6362579023,
+      "avg_risk_score": 15.092051756007393,
+      "avg_roi": 8.123160813308688,
+      "avg_tenure": 7.573012939001848,
+      "dominant_goal": "retirement",
+      "dominant_inv_type": "fd",
+      "goal_distribution": {
+        "retirement": 0.7042513863216266,
+        "wealth": 0.28650646950092423,
+        "emergency": 0.005545286506469501,
+        "education": 0.0036968576709796672
+      },
+      "inv_type_distribution": {
+        "fd": 0.36968576709796674,
+        "ppf": 0.36229205175600737,
+        "bonds": 0.18484288354898337,
+        "mutual": 0.031423290203327174,
+        "nps": 0.0166358595194085,
+        "gold": 0.014787430683918669,
+        "etf": 0.011090573012939002,
+        "real_estate": 0.0073937153419593345,
+        "stocks": 0.0018484288354898336
+      }
+    }
+  },
+  "gmm_cluster": {
+    "cluster_0": {
+      "size": 409,
+      "percentage": 20.45,
+      "avg_age": 27.946210268948654,
+      "avg_saving": 34827.664738799474,
+      "avg_net_worth": 210355.27291369927,
+      "avg_risk_score": 28.025427872860636,
+      "avg_roi": 14.360317848410757,
+      "avg_tenure": 2.5256723716381417,
+      "dominant_goal": "wealth",
+      "dominant_inv_type": "crypto",
+      "goal_distribution": {
+        "wealth": 0.6185819070904646,
+        "education": 0.1980440097799511,
+        "vacation": 0.18337408312958436
+      },
+      "inv_type_distribution": {
+        "crypto": 0.5134474327628362,
+        "stocks": 0.48655256723716384
+      }
+    },
+    "cluster_1": {
+      "size": 507,
+      "percentage": 25.35,
+      "avg_age": 49.3353057199211,
+      "avg_saving": 15217.419442509945,
+      "avg_net_worth": 829282.0352971924,
+      "avg_risk_score": 15.131558185404339,
+      "avg_roi": 8.017258382642998,
+      "avg_tenure": 7.536489151873767,
+      "dominant_goal": "retirement",
+      "dominant_inv_type": "fd",
+      "goal_distribution": {
+        "retirement": 0.7396449704142012,
+        "wealth": 0.2583826429980276,
+        "emergency": 0.0019723865877712033
+      },
+      "inv_type_distribution": {
+        "fd": 0.40039447731755423,
+        "ppf": 0.3806706114398422,
+        "bonds": 0.19723865877712032,
+        "gold": 0.015779092702169626,
+        "nps": 0.005917159763313609
+      }
+    },
+    "cluster_2": {
+      "size": 399,
+      "percentage": 19.950000000000003,
+      "avg_age": 41.51127819548872,
+      "avg_saving": 45031.038837937136,
+      "avg_net_worth": 1242728.8114051726,
+      "avg_risk_score": 16.568421052631578,
+      "avg_roi": 9.837142857142856,
+      "avg_tenure": 11.68421052631579,
+      "dominant_goal": "retirement",
+      "dominant_inv_type": "real_estate",
+      "goal_distribution": {
+        "retirement": 0.46115288220551376,
+        "wealth": 0.42355889724310775,
+        "emergency": 0.11528822055137844
+      },
+      "inv_type_distribution": {
+        "real_estate": 0.3132832080200501,
+        "mutual": 0.2756892230576441,
+        "nps": 0.20802005012531327,
+        "stocks": 0.19548872180451127,
+        "ppf": 0.007518796992481203
+      }
+    },
+    "cluster_3": {
+      "size": 685,
+      "percentage": 34.25,
+      "avg_age": 33.02335766423358,
+      "avg_saving": 26096.065117473383,
+      "avg_net_worth": 373609.4079320855,
+      "avg_risk_score": 20.16788321167883,
+      "avg_roi": 10.529226277372263,
+      "avg_tenure": 4.207299270072992,
+      "dominant_goal": "wealth",
+      "dominant_inv_type": "mutual",
+      "goal_distribution": {
+        "wealth": 0.4394160583941606,
+        "education": 0.38394160583941606,
+        "retirement": 0.15182481751824817,
+        "vacation": 0.024817518248175182
+      },
+      "inv_type_distribution": {
+        "mutual": 0.4335766423357664,
+        "etf": 0.4,
+        "gold": 0.16496350364963502,
+        "ppf": 0.00145985401459854
+      }
+    }
+  }
+}

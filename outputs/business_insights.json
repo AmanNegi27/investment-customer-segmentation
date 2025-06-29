@@ -1,0 +1,58 @@
+[
+  {
+    "cluster_id": "0",
+    "segment_type": "High Net Worth Individuals",
+    "size": 374,
+    "key_characteristics": {
+      "avg_age": 41.4,
+      "avg_risk_score": 16.6,
+      "avg_roi": 9.9,
+      "avg_net_worth": 1273111.0,
+      "dominant_goal": "retirement",
+      "dominant_investment": "real_estate"
+    },
+    "business_strategy": "Provide premium investment services and wealth management"
+  },
+  {
+    "cluster_id": "1",
+    "segment_type": "Balanced Investors",
+    "size": 442,
+    "key_characteristics": {
+      "avg_age": 28.3,
+      "avg_risk_score": 29.6,
+      "avg_roi": 14.1,
+      "avg_net_worth": 216934.0,
+      "dominant_goal": "wealth",
+      "dominant_investment": "crypto"
+    },
+    "business_strategy": "Offer diversified portfolio options"
+  },
+  {
+    "cluster_id": "2",
+    "segment_type": "Balanced Investors",
+    "size": 643,
+    "key_characteristics": {
+      "avg_age": 32.8,
+      "avg_risk_score": 18.9,
+      "avg_roi": 10.5,
+      "avg_net_worth": 377094.0,
+      "dominant_goal": "education",
+      "dominant_investment": "mutual"
+    },
+    "business_strategy": "Offer diversified portfolio options"
+  },
+  {
+    "cluster_id": "3",
+    "segment_type": "Conservative Seniors",
+    "size": 541,
+    "key_characteristics": {
+      "avg_age": 49.0,
+      "avg_risk_score": 15.1,
+      "avg_roi": 8.1,
+      "avg_net_worth": 820246.0,
+      "dominant_goal": "retirement",
+      "dominant_investment": "fd"
+    },
+    "business_strategy": "Focus on stable, low-risk investments with guaranteed returns"
+  }
+]

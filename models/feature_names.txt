@@ -1,0 +1,10 @@
+age
+saving
+net_worth
+risk_score
+tenure
+duration
+freq
+roi
+goal_encoded
+inv_type_encoded

@@ -1,0 +1,32 @@
+{
+  "best_k": 4,
+  "kmeans_silhouette": 0.23268474052931745,
+  "gmm_silhouette": 0.204118073556557,
+  "feature_names": [
+    "age",
+    "saving",
+    "net_worth",
+    "risk_score",
+    "tenure",
+    "duration",
+    "freq",
+    "roi",
+    "goal_encoded",
+    "inv_type_encoded"
+  ],
+  "numerical_features": [
+    "age",
+    "saving",
+    "net_worth",
+    "risk_score",
+    "tenure",
+    "duration",
+    "freq",
+    "roi"
+  ],
+  "categorical_features": [
+    "goal",
+    "inv_type"
+  ],
+  "random_state": 42
+}
