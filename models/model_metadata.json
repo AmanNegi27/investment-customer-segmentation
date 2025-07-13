@@ -1,7 +1,10 @@
 {
   "best_k": 4,
-  "kmeans_silhouette": 0.23268474052931745,
-  "gmm_silhouette": 0.204118073556557,
+  "silhouette_scores": {
+    "kmeans": 0.5745226828240408,
+    "gmm": 0.5743846677491887,
+    "dbscan": 0.3697345171384458
+  },
   "feature_names": [
     "age",
     "saving",
